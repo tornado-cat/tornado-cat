@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkayAydeniz&show_icons=true&theme=gruvbox)
 
 
 <h1 align="center">Hi 👋, I'm Berkay Aydeniz</h1>
@@ -23,3 +22,4 @@
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BerkayAydeniz&show_icons=true&theme=gruvbox)
